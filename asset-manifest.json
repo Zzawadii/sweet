@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sweet/static/css/main.9a36cdaa.css",
+    "main.js": "/sweet/static/js/main.e57e3e57.js",
+    "static/js/453.d3d6897c.chunk.js": "/sweet/static/js/453.d3d6897c.chunk.js",
+    "static/media/chocko.jpg": "/sweet/static/media/chocko.f08cb73018367f11c531.jpg",
+    "static/media/vanilla.jpg": "/sweet/static/media/vanilla.f05d7b2126c6f6fa45fd.jpg",
+    "static/media/abpic.jpg": "/sweet/static/media/abpic.fdfa71df7e51e9fc2825.jpg",
+    "static/media/homecacke.jpeg": "/sweet/static/media/homecacke.c4f9056a8275655f93c5.jpeg",
+    "static/media/fruit.jpg": "/sweet/static/media/fruit.ed1b3e89689c76190dc3.jpg",
+    "static/media/abb.jpg": "/sweet/static/media/abb.69adb910ecddb652686e.jpg",
+    "static/media/contact.jpg": "/sweet/static/media/contact.c7854cf166d2f948c6df.jpg",
+    "static/media/carrot.jpg": "/sweet/static/media/carrot.054406aa49dc4073741b.jpg",
+    "static/media/logg.jpg": "/sweet/static/media/logg.6f43ebdfb6ef74791409.jpg",
+    "static/media/cheese.jpg": "/sweet/static/media/cheese.d80dcf498e1e6283764e.jpg",
+    "static/media/red.jpg": "/sweet/static/media/red.00e9f057b68d088130b6.jpg",
+    "index.html": "/sweet/index.html",
+    "main.9a36cdaa.css.map": "/sweet/static/css/main.9a36cdaa.css.map",
+    "main.e57e3e57.js.map": "/sweet/static/js/main.e57e3e57.js.map",
+    "453.d3d6897c.chunk.js.map": "/sweet/static/js/453.d3d6897c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a36cdaa.css",
+    "static/js/main.e57e3e57.js"
+  ]
+}
