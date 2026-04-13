@@ -26,3 +26,24 @@ This project is a simple and interactive bakery website built using **React**. I
 
 ```bash
 git clone https://github.com/zzawadii/sweet.git
+secure-auth/
+├── src/
+│   ├── config/
+│   │   └── db.js              # Database configuration
+│   ├── controllers/
+│   │   └── authController.js  # Auth logic
+│   ├── middleware/
+│   │   ├── auth.js            # JWT verification
+│   │   ├── rateLimiter.js     # Rate limiting
+│   │   └── validator.js       # Input validation
+│   ├── routes/
+│   │   └── authRoutes.js      # API routes
+│   ├── utils/
+│   │   ├── email.js           # Email sending
+│   │   ├── logger.js          # Login tracking
+│   │   └── tokens.js          # Token generation
+│   └── server.js              # Express app
+├── .env.example               # Environment template
+├── .gitignore
+├── package.json
+└── README.md
