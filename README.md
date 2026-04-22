@@ -14,6 +14,11 @@ This project is a simple and interactive bakery website built using **React**. I
 - Floating "About Us" button on the menu page  
 - Navigation between Home, Menu, About, and Contact pages  
 
+## Tech Stack
+
+- **React** (with Vite)  
+- **CSS** for styling  
+- **React Router** for page navigation  
 
 ## How to Run Locally
 
