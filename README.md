@@ -27,4 +27,3 @@ This project is a simple and interactive bakery website built using **React**. I
 git clone https://github.com/zzawadii/sweet.git
 ```
 
-
